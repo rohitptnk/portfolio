@@ -34,6 +34,13 @@ const Hero = () => {
       <div className="hero-visual animate-fade-in-up" style={{ animationDelay: '0.5s' }}>
         <div className="glowing-orb"></div>
         <div className="glowing-orb orb-2"></div>
+        <div className="profile-image-container hover-lift">
+          <img 
+            src="https://avatars.githubusercontent.com/u/123158686?v=4" 
+            alt="Rohit Patnaik" 
+            className="profile-image" 
+          />
+        </div>
       </div>
     </section>
   );

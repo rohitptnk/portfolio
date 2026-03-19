@@ -8,6 +8,7 @@ const Navbar = () => {
         <a href="#home" className="nav-logo text-gradient">RP.</a>
         
         <ul className="nav-links">
+          <li><a href="#skills" className="hover-lift">Skills</a></li>
           <li><a href="#experience" className="hover-lift">Experience</a></li>
           <li><a href="#projects" className="hover-lift">Projects</a></li>
         </ul>

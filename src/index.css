@@ -15,7 +15,7 @@
   --gradient-bg: radial-gradient(circle at top right, #0a100d, var(--bg-primary) 50%);
 
   /* Typography */
-  --font-body: 'Outfit', sans-serif;
+  --font-body: 'Space Grotesk', sans-serif;
   
   /* Utils */
   --radius-lg: 16px;

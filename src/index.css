@@ -1,18 +1,18 @@
 :root {
   /* Dynamic & Premium Dark Theme Palette */
-  --bg-primary: #0a0a0b;
-  --bg-secondary: #121214;
-  --bg-glass: rgba(18, 18, 20, 0.6);
+  --bg-primary: #050505;
+  --bg-secondary: #0f0f0f;
+  --bg-glass: rgba(15, 15, 15, 0.7);
   --border-glass: rgba(255, 255, 255, 0.08);
 
-  --text-primary: #ffffff;
+  --text-primary: #f8fafc;
   --text-secondary: #a1a1aa;
   
-  --accent-primary: #6366f1; /* Indigo */
-  --accent-secondary: #c084fc; /* Purple */
+  --accent-primary: #10b981;
+  --accent-secondary: #059669;
   
   --gradient-text: linear-gradient(135deg, var(--accent-primary) 0%, var(--accent-secondary) 100%);
-  --gradient-bg: radial-gradient(circle at top right, #1a1a24, var(--bg-primary) 50%);
+  --gradient-bg: radial-gradient(circle at top right, #0a100d, var(--bg-primary) 50%);
 
   /* Typography */
   --font-body: 'Outfit', sans-serif;
@@ -93,5 +93,5 @@ ul {
 
 .hover-lift:hover {
   transform: translateY(-4px);
-  box-shadow: 0 10px 40px -10px rgba(99, 102, 241, 0.3);
+  box-shadow: 0 10px 40px -10px rgba(16, 185, 129, 0.15);
 }

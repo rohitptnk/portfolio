@@ -31,7 +31,7 @@ const Projects = () => {
       title: "Voice-to-Voice Translation Pipeline",
       description: "End-to-end speech translation pipeline using Whisper, Argos translate, and Bark TTS.",
       tags: ["Whisper", "TTS", "Hugging Face"],
-      links: { github: "https://github.com/rohitptnk/v2v-translate" },
+      links: { github: "https://github.com/rohitptnk/v2v-translate", website: "https://huggingface.co/spaces/rohitptnk/V2V-Translate" },
     }
   ];
 

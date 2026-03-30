@@ -13,7 +13,7 @@ const Projects = () => {
       title: "Acharya AI",
       description: "Designed an agentic AI exam prep platform with dynamic scheduling, RAG-based Q&A, and performance analytics.",
       tags: ["LangGraph", "FastAPI", "React", "Azure"],
-      links: { website: "https://acharya-v2-production.up.railway.app " },
+      links: { website: "https://acharya-v2-production.up.railway.app" },
     },
     {
       title: "BERT Fine-Tuning for Emotion Classification",

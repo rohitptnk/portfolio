@@ -10,10 +10,10 @@ const Projects = () => {
       links: { github: "https://github.com/rohitptnk/cosmoformer" }, 
     },
     {
-      title: "Study Assistant",
+      title: "Acharya AI",
       description: "Designed an agentic AI exam prep platform with dynamic scheduling, RAG-based Q&A, and performance analytics.",
       tags: ["LangGraph", "FastAPI", "React", "Azure"],
-      links: { github: "https://github.com/rohitptnk/study-assistant" },
+      links: { website: "https://acharya-v2-production.up.railway.app " },
     },
     {
       title: "BERT Fine-Tuning for Emotion Classification",
